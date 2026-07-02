@@ -15,3 +15,4 @@ Característica: [EP05] US16 - Recibir recomendación de horario óptimo
       | 3                   | el sistema sugiere los 3 bloques horarios con mayor concentración histórica |
       | 1                   | el sistema indica cuántos días faltan para generar recomendaciones          |
       | 0                   | el sistema indica cuántos días faltan para generar recomendaciones          |
+   # Revisado por [York Edwin Llamo Taipe] - TF
