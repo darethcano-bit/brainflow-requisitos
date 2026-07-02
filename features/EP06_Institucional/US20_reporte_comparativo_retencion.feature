@@ -14,3 +14,6 @@ Característica: [EP06] US20 - Generar reporte comparativo de retención
     Cuando la coordinadora genera el reporte
     Entonces el sistema genera el reporte solo con datos de BrainFlow
     Y indica la limitación en los resultados
+
+
+**# Sebastián Jerry Espinoza Roggero - TF
