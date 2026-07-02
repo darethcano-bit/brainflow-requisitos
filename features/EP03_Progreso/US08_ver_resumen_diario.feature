@@ -14,3 +14,5 @@ Característica: [EP03] US08 - Ver resumen diario de sesiones
     Cuando accede al panel de resumen diario
     Entonces el panel muestra los valores en cero
     Y un mensaje motivacional
+
+# Revisado por Jose Challco - TF
