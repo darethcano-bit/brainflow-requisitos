@@ -14,3 +14,4 @@ Característica: [EP07] US22 - Autenticarse con cuenta institucional Blackboard
     Dado que la sesión de Blackboard ha expirado
     Cuando el usuario intenta acceder a BrainFlow
     Entonces el sistema lo redirige al login de Blackboard
+# Revisado por Angelo Heras Yauri - TF
